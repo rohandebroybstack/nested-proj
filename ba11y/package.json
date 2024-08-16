@@ -6,7 +6,6 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "dependencies": {},
   "devDependencies": {
     "@crxjs/vite-plugin": "1.0.14",
     "@types/chrome": "0.0.254",
